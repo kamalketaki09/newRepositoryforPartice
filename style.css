@@ -1,3 +1,6 @@
 body{
-    color:blueviolet
+    color:rgb(226, 43, 43);
+    background-color: black;
+    text-align: center;
+    font-size: 25px;
 }
